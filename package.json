@@ -1,4 +1,24 @@
 {
+  "name": "tech-blog-mvc",
+  "version": "1.0.0",
+  "description": "Tech Blog application to post comments on tech subjects. Done using Model-View-Controller (MVC) architectural pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioColunga/TECH-BLOG-MVC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioColunga/TECH-BLOG-MVC/issues"
+  },
+  "homepage": "https://github.com/TECH-BLOG-MVC/#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
