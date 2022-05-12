@@ -1,5 +1,5 @@
 {
-  "name": "tech-blog-mvc",
+  "name": "tech-blog",
   "version": "1.0.0",
   "description": "Tech Blog application to post comments on tech subjects. Done using Model-View-Controller (MVC) architectural pattern.",
   "main": "index.js",
